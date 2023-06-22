@@ -85,6 +85,12 @@ footer{
     display: grid;
 }
 
+.galleryBanner{
+    height: 200px;
+    float: right;
+    text-align: center;
+}
+
 .appBanner{
     height: 200px;
     float: right;
